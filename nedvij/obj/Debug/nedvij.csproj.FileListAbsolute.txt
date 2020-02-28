@@ -1,0 +1,11 @@
+C:\Users\noname\source\repos\nedvij\nedvij\bin\Debug\nedvij.exe.config
+C:\Users\noname\source\repos\nedvij\nedvij\bin\Debug\nedvij.exe
+C:\Users\noname\source\repos\nedvij\nedvij\bin\Debug\nedvij.pdb
+C:\Users\noname\source\repos\nedvij\nedvij\obj\Debug\nedvij.csprojAssemblyReference.cache
+C:\Users\noname\source\repos\nedvij\nedvij\obj\Debug\nedvij.Form1.resources
+C:\Users\noname\source\repos\nedvij\nedvij\obj\Debug\nedvij.Properties.Resources.resources
+C:\Users\noname\source\repos\nedvij\nedvij\obj\Debug\nedvij.csproj.GenerateResource.cache
+C:\Users\noname\source\repos\nedvij\nedvij\obj\Debug\nedvij.csproj.CoreCompileInputs.cache
+C:\Users\noname\source\repos\nedvij\nedvij\obj\Debug\nedvij.exe
+C:\Users\noname\source\repos\nedvij\nedvij\obj\Debug\nedvij.pdb
+C:\Users\noname\source\repos\nedvij\nedvij\obj\Debug\nedvij.Form2.resources
